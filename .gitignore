@@ -1,0 +1,12 @@
+node_modules/
+/.idea/
+*.iml
+*.log
+logs/
+coverage
+*.sh
+
+dist
+tmp
+
+.serverless
