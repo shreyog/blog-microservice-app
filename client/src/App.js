@@ -1,6 +1,16 @@
 import React from "react";
+import PostCreate from "./PostCreate";
+import PostList from "./PostList";
 
 const App = () => {
-    return<div>Blog App</div>
-}
+  return (
+    <div className="container">
+      <br />
+      <h1>Create Post</h1>
+      <PostCreate />
+      <hr />
+      <PostList />
+    </div>
+  );
+};
 export default App;
