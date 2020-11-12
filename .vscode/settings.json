@@ -1,7 +1,12 @@
 {
     "cSpell.words": [
+        "alpha",
         "depl",
+        "kubectl",
         "posts",
-        "posts depl"
+        "posts depl",
+        "skaffold",
+        "skaffold v alpha",
+        "v"
     ]
 }
