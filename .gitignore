@@ -5,6 +5,7 @@ node_modules/
 logs/
 coverage
 *.sh
+/.vscode/
 
 dist
 tmp
